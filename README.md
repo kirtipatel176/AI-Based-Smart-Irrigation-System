@@ -15,6 +15,7 @@ This project combines **IoT hardware**, **AI prediction models**, and a **mobile
 ---
 
 ## ⚙️ System Architecture
+![Architecture](arc.jpg)
 
 ---
 
